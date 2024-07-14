@@ -2,7 +2,7 @@
 <h1 align="center">AlgouniX</h1>
 
 <div align=center>
-        <img src="file.png" height="200">
+        <img src="Algounix-logo.svg" height="800">
     </div>
 
 
